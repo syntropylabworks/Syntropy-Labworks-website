@@ -9,10 +9,10 @@ const Hero = ({ scrollToSection }) => {
       </div>
       <div className="container">
         <div className="hero-content">
-          <div className="hero-badge">
+          {/* <div className="hero-badge">
             <Shield size={16} />
             <span>Closed Environment Engineering</span>
-          </div>
+          </div> */}
           <h1 className="hero-title">
             Helping businesses, turning ideas into <span className="highlight">secure, scalable systems.</span>
           </h1>
