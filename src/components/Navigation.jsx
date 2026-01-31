@@ -7,7 +7,7 @@ const Navigation = ({ isMenuOpen, setIsMenuOpen, scrolled, activeSection, scroll
       <div className="container">
         <div className="nav-content">
           <div className="logo" onClick={() => scrollToSection('home')}>
-            <img src="../public/logo.png" alt="Syntropylabworks" className="logo-image" />
+            <img src="logo.png" alt="Syntropylabworks" className="logo-image" />
           </div>
           
           <button className="menu-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>

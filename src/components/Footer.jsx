@@ -7,7 +7,7 @@ const Footer = ({ scrollToSection }) => {
         <div className="footer-content">
           <div className="footer-brand">
             <div className="logo">
-              <img src="../public/logo.png" alt="Syntropylabworks" className="logo-image" />
+              <img src="logo.png" alt="Syntropylabworks" className="logo-image" />
             </div>
             <p>Where imagination meets innovation.</p>
           </div>
